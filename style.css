@@ -44,7 +44,6 @@ body {
   box-sizing: border-box; }
 
 .live-list {
-  padding: 45px 0 0 0;
   margin: 0; }
   .live-list li :hover {
     background-color: #65CDF9; }
@@ -61,7 +60,7 @@ li {
     margin: 0; }
 
 .save-list {
-  padding: 0; }
+  padding: 45px 0 0 0; }
   .save-list li {
     background-color: #E27BEB;
     display: flex;
