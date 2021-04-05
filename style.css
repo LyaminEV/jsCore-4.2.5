@@ -55,7 +55,8 @@ li {
   background-color: #E3E3E3;
   font-size: 30px;
   line-height: 44px;
-  padding: 0 13px; }
+  padding: 0 13px;
+  font-family: 'Roboto'; }
   li p {
     margin: 0; }
 
