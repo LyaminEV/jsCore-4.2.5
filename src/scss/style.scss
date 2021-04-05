@@ -1,0 +1,13 @@
+@import "helpers/reset";
+@import "helpers/parameters";
+body {
+  width: 760px;
+  padding: 40px 20px;
+  background: #F8F8F8;
+  font-family: 'Roboto';
+  font-weight: 400;
+  font-size: 14px;
+  color: #1B1C21;
+  margin: 0 auto; 
+}
+@import "pages/_search.scss";
