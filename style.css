@@ -44,7 +44,7 @@ body {
   box-sizing: border-box; }
 
 .live-list {
-  padding: 0px;
+  padding: 45px 0 0 0;
   margin: 0; }
   .live-list li :hover {
     background-color: #65CDF9; }
