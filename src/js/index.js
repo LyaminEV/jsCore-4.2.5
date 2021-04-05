@@ -1,4 +1,4 @@
-
+import '../scss/style.scss';
 
 
 const liveList = document.querySelector('.live-list'),
